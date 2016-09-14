@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background: url("http://i.imgur.com/D4WXyMR.jpg");
+	background-size: 2500px 1700px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+	width: 90%;
+}
+img {
+	margin: 20px auto;
+	border: 7px solid white;
+	border-radius: 20px;
+}
+h1 {font-family: cambria;
+	text-shadow:2px 2px 7px #ffffff;
+}
+ul {font-family: cambria;
+	padding-right: 40px;
+	margin: 30px 50px;
+}
+.boxed {border: 1px solid white;
+	margin: 10px 200px;
+	background: rgba(255,255,255,0.25)
+}
+.textbox {background: rgba(255,255,255,0.6)
+}
+p {font-size: 36px;
+	text-shadow:2px 2px 4px #111111;
+}
